@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Palindrome {
+public class Palindrome_1 {
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);

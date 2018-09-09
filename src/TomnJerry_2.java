@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TomnJerry {
+public class TomnJerry_2 {
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);

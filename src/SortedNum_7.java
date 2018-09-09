@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class SortedNum {
+public class SortedNum_7 {
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);

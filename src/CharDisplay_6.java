@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CharDisplay {
+public class CharDisplay_6 {
     public static void main(String[] args)
     {
         Scanner s=new Scanner(System.in);

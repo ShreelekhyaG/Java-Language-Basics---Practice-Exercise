@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Nth_Iteration {
+public class Nth_Iteration_4 {
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);
