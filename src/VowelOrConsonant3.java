@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelorC_3 {
+public class VowelOrConsonant3 {
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);

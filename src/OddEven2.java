@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class TomnJerry_2 {
+public class OddEven2 {
     public static void main(String args[])
     {
-        Scanner s=new Scanner(System.in);
+        Scanner scanner=new Scanner(System.in);
         System.out.println("Enter a number:");
-        int n=s.nextInt();
+        int n=scanner.nextInt();
         if(n%2 == 0 && n>=20 && n<=30)
             System.out.println("Jerry");
         if(n%2 != 0 && n>=20 && n<=30)

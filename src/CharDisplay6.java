@@ -1,16 +1,16 @@
 import java.util.Scanner;
 
-public class CharDisplay_6 {
+public class CharDisplay6 {
     public static void main(String[] args)
     {
-        Scanner s=new Scanner(System.in);
+        Scanner scanner=new Scanner(System.in);
         System.out.print("Enter a character :");
-        char ch=s.next().charAt(0);
-        if(ch>=65 && ch<=90)
+        char character=scanner.next().charAt(0);
+        if(character>=65 && character<=90)
             System.out.println("Capital letter");
-        else if (ch>=97 && ch<=122)
+        else if (character>=97 && character<=122)
             System.out.println("Small case letter");
-        else if (ch>=48 && ch<=57)
+        else if (character>=48 && character<=57)
             System.out.println("Digit");
         else
             System.out.println("Special character");

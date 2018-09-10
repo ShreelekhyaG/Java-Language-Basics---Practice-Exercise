@@ -1,19 +1,20 @@
 import java.util.Scanner;
 
 
-public class Palindrome_1 {
+public class Palindrome1 {
     public static void main(String args[])
     {
-        Scanner s=new Scanner(System.in);
+        Scanner scanner=new Scanner(System.in);
         System.out.println("Enter a number:");
-        long num=s.nextLong();
-        long rev=0,sum=0,n;long anum=num;
+        long num=scanner.nextLong();
+        long rev=0,sum=0,temp;
+        long anum=num;
         while(num>0)
         {
-            n= (num%10);
-            if(n%2==0)
-                sum=sum+n;
-            rev=(rev*10)+n;
+            temp= (num%10);
+            if(temp%2==0)
+                sum=sum+temp;
+            rev=(rev*10)+temp;
             num=num/10;
         }
         if(rev==anum)
