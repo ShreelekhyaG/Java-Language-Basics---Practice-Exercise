@@ -1,3 +1,5 @@
+package main.Java;
+
 import java.util.Scanner;
 
 public class NCharRepeat10 {
@@ -8,6 +10,10 @@ public class NCharRepeat10 {
         String str=scanner.next();
         System.out.println("Input integer:");
         int repeatTimes=scanner.nextInt();
+
+    }
+    public String charRepeat(String str,int repeatTimes)
+    {
         String lastChar="",resStr=str;
         int len=str.length();
         lastChar=str.substring(len-repeatTimes);
@@ -17,6 +23,6 @@ public class NCharRepeat10 {
             resStr=resStr+lastChar;
             repeatTimes--;
         }
-        System.out.println(resStr);
+        return resStr;
     }
 }

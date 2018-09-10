@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391e867a-8d6d-4823-a81b-d1da88b8d01b" name="Default Changelist" comment="">
+    <list default="true" id="391e867a-8d6d-4823-a81b-d1da88b8d01b" name="Default Changelist" comment="Commiting from intelliJ 2nd time">
+      <change afterPath="$PROJECT_DIR$/src/main/Java/CharDisplay6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/IntSum5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/NCharRepeat10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/NthIteration4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/NumberGuess8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/OddEven2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Palindrome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/ReverseStringGenerator9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/SortedNum7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/VowelOrConsonant3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/CharDisplay6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/IntSum5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/NCharRepeat10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/NthIteration4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/OddEven2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/Palindrome1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/ReverseStringGenerator9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/SortedNum7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/VowelOrConsonant3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharDisplay_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharDisplay6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Int_sum_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntSum5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NCharRepeat_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NCharRepeat10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nth_Iteration_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NthIteration4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGuess_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberGuess8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedNum_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedNum7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringRev_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseStringGenerator9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TomnJerry_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddEven2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VowelorC_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelOrConsonant3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JBasics_PracticeEx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JBasics_PracticeEx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/CharDisplay_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/Int_sum_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/NCharRepeat_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/Nth_Iteration_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/NumberGuess_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/Palindrome_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/SortedNum_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/StringRev_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/TomnJerry_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JBasics_PracticeEx/VowelorC_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharDisplay6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntSum5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NCharRepeat10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NthIteration4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberGuess8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddEven2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseStringGenerator9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedNum7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VowelOrConsonant3.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,25 +63,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="35" />
-          <entry key="java" value="3307" />
-          <entry key="txt" value="23" />
+          <entry key="java" value="6062" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3307" />
-          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="JAVA" value="6062" />
+          <entry key="PLAIN_TEXT" value="67" />
         </counts>
       </usages-collector>
     </session>
@@ -59,64 +89,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Palindrome1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/IntSum5Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="320">
+              <caret line="43" column="49" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="43" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OddEven2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/SortedNum7Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="229">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VowelOrConsonant3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/NthIteration4Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="244">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/NumberGuess8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NthIteration4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/ReverseStringGenerator9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntSum5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/CharDisplay6Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CharDisplay6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortedNum7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="900">
+              <caret line="60" column="5" selection-start-line="53" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,28 +146,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NumberGuess8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/Palindrome1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ReverseStringGenerator9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NCharRepeat10.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/ReverseStringGenerator9Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="274">
+              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/NCharRepeat10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/NCharRepeat10Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,8 +190,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obj</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -191,10 +230,38 @@
         <option value="$PROJECT_DIR$/src/NthIteration4.java" />
         <option value="$PROJECT_DIR$/src/NumberGuess8.java" />
         <option value="$PROJECT_DIR$/src/OddEven2.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome1.java" />
         <option value="$PROJECT_DIR$/src/ReverseStringGenerator9.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome1.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/OddEven2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/OddEven2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/Palindrome1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/VowelOrConsonant3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/Palindrome1.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/OddEven2.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/VowelOrConsonant3.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/IntSum5Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/IntSum5.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/CharDisplay6.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CharDisplay6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/SortedNum7.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/SortedNum7Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/NthIteration4.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/NthIteration4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/ReverseStringGenerator9.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/ReverseStringGenerator9Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/NCharRepeat10.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/NCharRepeat10Test.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/NumberGuess8.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
@@ -221,6 +288,41 @@
               <item name="JBasics_PracticeEx" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JBasics_PracticeEx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JBasics_PracticeEx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JBasics_PracticeEx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="junit-4.10" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JBasics_PracticeEx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="junit-4.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.10.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +332,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536562128920" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536595576590" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.10.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.Test" />
+      <recent name="main.Java" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,56 +366,93 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringRev_9">
-    <configuration name="NCharRepeat10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NCharRepeat10" />
+  <component name="RunManager" selected="JUnit.NCharRepeat10Test">
+    <configuration name="NCharRepeat10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JBasics_PracticeEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.Test" />
+      <option name="MAIN_CLASS_NAME" value="main.Test.NCharRepeat10Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthIteration4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NthIteration4" />
+    <configuration name="NthIteration4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JBasics_PracticeEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.Test" />
+      <option name="MAIN_CLASS_NAME" value="main.Test.NthIteration4Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuess8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGuess8" />
+    <configuration name="ReverseStringGenerator9Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JBasics_PracticeEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.Test" />
+      <option name="MAIN_CLASS_NAME" value="main.Test.ReverseStringGenerator9Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedNum7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedNum7" />
+    <configuration name="SortedNum7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JBasics_PracticeEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.Test" />
+      <option name="MAIN_CLASS_NAME" value="main.Test.SortedNum7Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRev_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringRev_9" />
+    <configuration name="SortedNum7Test.sortedNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JBasics_PracticeEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.Test" />
+      <option name="MAIN_CLASS_NAME" value="main.Test.SortedNum7Test" />
+      <option name="METHOD_NAME" value="sortedNum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NCharRepeat10" />
-      <item itemvalue="Application.NthIteration4" />
-      <item itemvalue="Application.NumberGuess8" />
-      <item itemvalue="Application.SortedNum7" />
-      <item itemvalue="Application.StringRev_9" />
+      <item itemvalue="JUnit.SortedNum7Test" />
+      <item itemvalue="JUnit.SortedNum7Test.sortedNum" />
+      <item itemvalue="JUnit.NthIteration4Test" />
+      <item itemvalue="JUnit.ReverseStringGenerator9Test" />
+      <item itemvalue="JUnit.NCharRepeat10Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringRev_9" />
-        <item itemvalue="Application.SortedNum7" />
-        <item itemvalue="Application.NumberGuess8" />
-        <item itemvalue="Application.NthIteration4" />
-        <item itemvalue="Application.NCharRepeat10" />
+        <item itemvalue="JUnit.NCharRepeat10Test" />
+        <item itemvalue="JUnit.ReverseStringGenerator9Test" />
+        <item itemvalue="JUnit.NthIteration4Test" />
+        <item itemvalue="JUnit.SortedNum7Test" />
+        <item itemvalue="JUnit.SortedNum7Test.sortedNum" />
       </list>
     </recent_temporary>
   </component>
@@ -315,39 +474,87 @@
       <option name="project" value="LOCAL" />
       <updated>1536518262355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commiting from intelliJ 2nd time">
+      <created>1536562160732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536562160732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SortedNum7Test - 2018.09.10 at 21h 11m 46s.xml">
+      <configuration name="SortedNum7Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedNum7Test_sortedNum - 2018.09.10 at 21h 12m 08s.xml">
+      <configuration name="SortedNum7Test.sortedNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedNum7Test_sortedNum - 2018.09.10 at 21h 12m 56s.xml">
+      <configuration name="SortedNum7Test.sortedNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedNum7Test - 2018.09.10 at 21h 13m 13s.xml">
+      <configuration name="SortedNum7Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NthIteration4Test - 2018.09.10 at 21h 17m 50s.xml">
+      <configuration name="NthIteration4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NthIteration4Test - 2018.09.10 at 21h 18m 25s.xml">
+      <configuration name="NthIteration4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NthIteration4Test - 2018.09.10 at 21h 20m 12s.xml">
+      <configuration name="NthIteration4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStringGenerator9Test - 2018.09.10 at 21h 25m 39s.xml">
+      <configuration name="ReverseStringGenerator9Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStringGenerator9Test - 2018.09.10 at 21h 26m 53s.xml">
+      <configuration name="ReverseStringGenerator9Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NCharRepeat10Test - 2018.09.10 at 21h 32m 20s.xml">
+      <configuration name="NCharRepeat10Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24063745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33074534" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972136" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003984" side_tool="true" visible="true" weight="0.32919255" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4996016" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" sideWeight="0.4996016" weight="0.32919255" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4884462" weight="0.33074534" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4996016" weight="0.39906833" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4996016" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880478" weight="0.32919255" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51155376" side_tool="true" weight="0.33074534" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4860558" visible="true" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24940239" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32988048" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -355,7 +562,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commiting from intelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting from intelliJ" />
+    <MESSAGE value="Commiting from intelliJ 2nd time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting from intelliJ 2nd time" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SortedNum7.java">
@@ -382,24 +594,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntSum5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NCharRepeat10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NthIteration4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -424,23 +629,276 @@
     <entry file="file://$PROJECT_DIR$/src/OddEven2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseStringGenerator9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntSum5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="46" column="84" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="90" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/OddEven2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/VowelOrConsonant3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/IntSum5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/CharDisplay6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/VowelOrConsonant3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/OddEven2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/Palindrome1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/SortedNum7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/OddEven2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/NthIteration4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/SortedNum7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/NthIteration4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/Palindrome1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/ReverseStringGenerator9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/ReverseStringGenerator9Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CharDisplay6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="5" selection-start-line="53" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/NCharRepeat10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/IntSum5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="43" column="49" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/NCharRepeat10Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/NumberGuess8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JBasics_PracticeEx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

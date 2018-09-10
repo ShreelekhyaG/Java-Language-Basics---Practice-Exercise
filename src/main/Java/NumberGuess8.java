@@ -1,3 +1,5 @@
+package main.Java;
+
 import java.util.Scanner;
 
 public class NumberGuess8 {

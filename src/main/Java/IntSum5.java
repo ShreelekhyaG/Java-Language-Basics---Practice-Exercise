@@ -1,11 +1,22 @@
+package main.Java;
+
 import java.util.Scanner;
 
 public class IntSum5 {
     public static void main(String args[])
     {
-        Scanner scanner=new Scanner(System.in);
-        System.out.println("Input:");
-        String input=scanner.nextLine();
+    }
+    public String SumOfInt(String input)
+    {
+        try
+        {
+            if( input == null )
+                throw new NumberFormatException("The number cannot be null");
+        }
+        catch(NumberFormatException e)
+        {
+            return "Null exception";
+        }
         String[] inputSplit=input.trim().split("\\s");
         int num,sum=0;
         for(int i=0;i<inputSplit.length;i++)
@@ -15,9 +26,9 @@ public class IntSum5 {
                 sum=sum+num;
             }
             catch (Exception ex) {
-                System.out.println(ex.getMessage()+" is non-integer value");
+                return "It is a non integer value";
             }
         }
-        System.out.println(sum);
+        return String.valueOf(sum);
     }
 }
